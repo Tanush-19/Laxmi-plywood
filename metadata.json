@@ -1,0 +1,6 @@
+{
+  "name": "Laxmi Plywood",
+  "description": "Premium plywood and interior-material showroom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
